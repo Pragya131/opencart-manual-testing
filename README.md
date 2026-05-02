@@ -1,48 +1,61 @@
-# 🛒 OpenCart Manual Testing Project
+# 🛒 OpenCart Manual Testing Project  
 
-## 📌 Project Overview
-This project focuses on End-to-End Functional Testing of the OpenCart E-commerce application. It covers core user workflows and ensures the system works as expected.
-
----
-
-## 🎯 Objectives
-- Validate core functionalities of the application  
-- Identify bugs and usability issues  
-- Ensure smooth user experience  
+## 📌 Project Overview  
+End-to-End Functional Testing of the **OpenCart E-commerce Application** to validate core user workflows and ensure a seamless user experience.
 
 ---
 
-## 🔍 Modules Tested
-- User Registration  
-- Login  
-- Product Search  
-- Add to Cart  
-- Checkout Process  
+## 🎯 Objectives  
+✔️ Validate key functionalities of the application  
+✔️ Identify defects and usability issues  
+✔️ Ensure smooth and error-free user journey  
 
 ---
 
-## 🧪 Testing Type
-- Manual Testing  
-- Functional Testing  
-- End-to-End Testing  
+## 🔍 Modules Covered  
+🔹 User Registration  
+🔹 Login & Authentication  
+🔹 Product Search & Filtering  
+🔹 Add to Cart  
+🔹 Checkout & Order Placement  
 
 ---
 
-## 📂 Deliverables
-- Test Scenarios  
-- Test Cases  
-- Bug Reports  
-- Test Summary Report  
+## 🧪 Testing Approach  
+🔸 Manual Testing  
+🔸 Functional Testing  
+🔸 End-to-End Testing  
 
 ---
 
-## 🛠️ Tools Used
-- Manual Testing  
-- SQL (for validation)
-- Excel for writing test cases 
-- Jira (for bug tracking)  
+## 📂 Project Deliverables  
+
+📁 **Test Scenarios** – High-level testing conditions  
+📁 **Test Cases** – Detailed step-by-step validation  
+📁 **Bug Reports** – Identified defects with severity & priority  
+📁 **Test Summary Report** – Overall execution results  
 
 ---
 
-## 🚀 Outcome
-Successfully tested major workflows and identified bugs to improve application quality.
+## 🛠️ Tools & Technologies  
+💻 Manual Testing  
+🗄️ SQL (Data Validation)  
+🐞 Jira (Bug Tracking)  
+
+---
+
+## 📊 Key Highlights  
+✔️ Covered complete E-commerce workflow  
+✔️ Designed comprehensive test cases (Positive & Negative)  
+✔️ Identified critical bugs impacting user experience  
+✔️ Ensured application quality and reliability  
+
+---
+
+## 🚀 Outcome  
+Successfully tested major functionalities of OpenCart and contributed to improving overall system quality by identifying and reporting defects.
+
+---
+
+## 📂 Test Cases  
+👉 [View Test Cases](./TestCases/opencart-testcases.xlsx)
